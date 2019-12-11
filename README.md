@@ -1,4 +1,4 @@
-# Chingu Voyage Solo Project (Tier 1): Initab Clone
+# Chingu Voyage Solo Project (Tier 2): Connect4 Game
 
 ![Connect4 Gif](./assets/connect4.gif)
 
