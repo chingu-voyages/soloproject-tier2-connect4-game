@@ -50,7 +50,7 @@ disc.
 - [ ] A player wins if they get four in a row horizontally, vertically, or 
 diagonally (in any direction)
 - [ ] A game is tied when the whole board is filled up.
-- [ ] The game is over when the a player wins or the game is tied.
+- [ ] The game is over when a player wins or the game is tied.
 - [ ] Clicking the Game Reset button clears the game board and starts a new
 game.
 
@@ -67,6 +67,7 @@ submitting
 [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive))
 
 **Extras (Not Required)**
+- [ ] Replicate the physical feel of a four-in-a-row game with css animations as discs drop into place from above
 - [ ] Add a '?' button to display game rules
 - [ ] Allow each player to enter the name they want to be referred to in
 prompts and messages
